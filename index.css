@@ -1,0 +1,73 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #ffffff;
+}
+.content-container {
+  background-color: #ffffff;
+  text-align: center;
+}
+.container-heading {
+  font-family: Roboto;
+  font-size: 40px;
+  color: #0f172a;
+}
+.information-message-container {
+  background-color: #0b69ff;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.information-message {
+  padding: 15px;
+  color: #ffffff;
+  font-family: Roboto;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.success-message-container {
+  background-color: #2dca73;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.success-message {
+  padding: 15px;
+  color: #ffffff;
+  font-family: Roboto;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.warning-message-container {
+  background-color: #ffb800;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.warning-message {
+  padding: 15px;
+  color: #ffffff;
+  font-family: Roboto;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.error-message-container {
+  margin-left: 200px;
+  margin-right: 200px;
+  background-color: #ff0b37;
+}
+.error-message {
+  padding: 15px;
+  color: #ffffff;
+  font-family: Roboto;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.img-icon {
+  margin-top: 15px;
+  height: 30px;
+}
